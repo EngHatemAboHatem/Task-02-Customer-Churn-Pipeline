@@ -46,6 +46,13 @@ Customer churn prediction is a critical business challenge. In this project, I b
 * `README.md`: This project documentation.
 
 ---
-**Intern:** Hatem  
-**Company:** DevelopersHub Corporation  
-**Submission Date:** March 2026
+##👤 Author & Organization
+
+Author: Hatem Ali
+
+Student ID: DHC-1079
+
+Organization: DevelopersHub Corporation
+
+**Date:** March 2026
+
